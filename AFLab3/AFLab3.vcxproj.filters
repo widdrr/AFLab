@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Problema1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Problema2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Problema3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Problema4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Problema5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Problema6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bonus1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bonus2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bonus3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bonus4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="maxflow.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="maxflow.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="cuplaj.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="cuplaj.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="harta.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="harta.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fmcm.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fmcm.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="drumuri2.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="drumuri2.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="prime.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="prime.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="johnie.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="johnie.out">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
